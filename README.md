@@ -78,4 +78,79 @@ Even administrators cannot access user passwords — ensuring complete user trus
 Encourages users to share ideas, report bugs, or request new features.
 
 
- ![ABOUT PAGE](https://github.com/project101010/batch-project/blob/main/images_git/about.jpeg)
+
+
+## 🧾 UML Diagrams
+
+### 1️⃣ Use Case Diagram  
+![Use Case Diagram](https://github.com/project101010/batch-project/blob/main/images_git/1.jpeg)
+
+---
+
+### 2️⃣ Class Diagram  
+![Class Diagram](https://github.com/project101010/batch-project/blob/main/images_git/2.jpeg)
+
+---
+
+### 3️⃣ Sequence Diagram  
+![Sequence Diagram](https://github.com/project101010/batch-project/blob/main/images_git/3.jpeg)
+
+---
+
+### 4️⃣ Activity Diagram  
+![Activity Diagram](https://github.com/project101010/batch-project/blob/main/images_git/4.jpeg)
+
+---
+
+## 📷 Output Screens
+
+### 🏠 Landing Page  
+![Landing](https://github.com/project101010/batch-project/blob/main/images_git/landingslide.jpeg)
+
+---
+
+
+### 👤 User Login Page  
+![User Login](https://github.com/project101010/batch-project/blob/main/images_git/studentlogin.jpeg)
+
+---
+
+### 📝 Sign Up Page  
+![Sign Up](https://github.com/project101010/batch-project/blob/main/images_git/signup.jpeg)
+
+---
+
+### 👨‍🏫 Teacher Login Page  
+![Teacher Login](https://github.com/project101010/batch-project/blob/main/images_git/teacher_login.jpeg)
+
+---
+
+### 💼 Services Page  
+![Services](https://github.com/project101010/batch-project/blob/main/images_git/services.jpeg)
+
+---
+
+### 🧾 About Page  
+![About](https://github.com/project101010/batch-project/blob/main/images_git/about.jpeg)
+
+---
+
+### 📬 Contact Page  
+![Contact](https://github.com/project101010/batch-project/blob/main/images_git/contactpage.jpeg)
+
+---
+
+## 🛠️ Technologies Used
+
+- PHP  
+- MySQL  
+- HTML / CSS  
+- JavaScript  
+
+---
+
+## 📩 Feedback & Suggestions
+
+We welcome all feedback to improve the platform. Submit yours through the Contact page or directly in-app.
+
+
