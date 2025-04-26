@@ -78,5 +78,4 @@ Even administrators cannot access user passwords — ensuring complete user trus
 Encourages users to share ideas, report bugs, or request new features.
 
 
-
-[Login Screen](images_git/1.jpeg!)
+ ![Login Screen](https://github.com/project101010/batch-project/blob/main/images_git/about.jpeg)
